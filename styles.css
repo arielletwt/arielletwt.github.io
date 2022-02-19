@@ -24,3 +24,7 @@ h3 {
 .fav {
 	text-align: center;
 }
+
+.fav a {
+	margin: 5px;
+}
